@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-section{
+    padding-bottom: 50px;
+    background-color: rgb(234, 234, 238);
+}
+h1{
+    text-align: center;
+    background-color: rgb(15, 89, 92);
+    padding: 20px;
+    margin: 0;
+    color: azure;
+    }
+h2{
+    align-items: center;
+    padding-left: 20px;
+    color:rgb(69, 151, 171);
+}
